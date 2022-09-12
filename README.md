@@ -8,6 +8,6 @@ open repository in vscode
 ## project setup instructions
 online Portfolio
 ## link to live site on GitHub Pages
-n/l
+https://lololchike.github.io/Porfolio/
 ## copyright and license information
 @ 2022 Ololchike Lucy
